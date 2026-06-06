@@ -59,6 +59,13 @@ This design provides both flexibility and ease of use, allowing developers to ei
 *   **[x402 Protocol](https://x402.gitbook.io/x402)**: The underlying payment protocol.
 *   **[AP2 Protocol](https://github.com/google-agentic-commerce/AP2)**: The Agent Payments Protocol.
 
+
+## 🌐 **Ecosystem**
+
+Projects and services built on or integrated with the A2A x402 extension:
+
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Solana-native x402 MCP server providing cryptographically signed V5 trust receipts for AI agents. Live production service: free preflight trust scoring + paid receipt generation at https://intel.twzrd.xyz/mcp
+
 ## 🤝 **Contributing**
 
 Contributions are welcome! Please read the [specification](spec/v0.1/spec.md) and the existing code to understand the project's design and goals. Then, feel free to open a pull request with your changes.
